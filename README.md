@@ -50,12 +50,17 @@ cpu-scheduling-simulator-java-gui/
 git clone https://github.com/harman23227/cpu-scheduling-simulator-java-gui.git
 cd cpu-scheduling-simulator-java-gui
 
-2. **Clone the repository**
+2. **Compiling and running**
 
 Using terminal:
 
 javac -d bin src/main/*.java
+
+
 java -cp bin Main
+
+
+
 Or simply run the Main class from your IDE.
 
 
